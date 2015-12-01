@@ -13,6 +13,7 @@
 		B2F9B6CA1C0D6E4A005E00A0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2F9B6C81C0D6E4A005E00A0 /* Main.storyboard */; };
 		B2F9B6CC1C0D6E4A005E00A0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B2F9B6CB1C0D6E4A005E00A0 /* Assets.xcassets */; };
 		B2F9B6CF1C0D6E4A005E00A0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B2F9B6CD1C0D6E4A005E00A0 /* LaunchScreen.storyboard */; };
+		B2F9B6D71C0D7126005E00A0 /* purple-button-hi.png in Resources */ = {isa = PBXBuildFile; fileRef = B2F9B6D61C0D7126005E00A0 /* purple-button-hi.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		B2F9B6CB1C0D6E4A005E00A0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B2F9B6CE1C0D6E4A005E00A0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B2F9B6D01C0D6E4A005E00A0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B2F9B6D61C0D7126005E00A0 /* purple-button-hi.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "purple-button-hi.png"; path = "../../../../Downloads/purple-button-hi.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 		B2F9B6BE1C0D6E4A005E00A0 /* SimpleCalculator */ = {
 			isa = PBXGroup;
 			children = (
+				B2F9B6D61C0D7126005E00A0 /* purple-button-hi.png */,
 				B2F9B6C21C0D6E4A005E00A0 /* AppDelegate.h */,
 				B2F9B6C31C0D6E4A005E00A0 /* AppDelegate.m */,
 				B2F9B6C51C0D6E4A005E00A0 /* ViewController.h */,
@@ -138,6 +141,7 @@
 			files = (
 				B2F9B6CF1C0D6E4A005E00A0 /* LaunchScreen.storyboard in Resources */,
 				B2F9B6CC1C0D6E4A005E00A0 /* Assets.xcassets in Resources */,
+				B2F9B6D71C0D7126005E00A0 /* purple-button-hi.png in Resources */,
 				B2F9B6CA1C0D6E4A005E00A0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
